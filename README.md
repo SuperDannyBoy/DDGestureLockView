@@ -1,10 +1,9 @@
-DDGestureLockView
-=================
+## DDGestureLockView ##
 
-【Attention】
+ - Attention
 
-Instructions here ——> https://github.com/kejinlu/KKGestureLockView
+[Instructions here](https://github.com/kejinlu/KKGestureLockView)
 
-this way increases the gestures thumbnail effect, and add a delegate method.
+**This way increases the gestures thumbnail effect, and add a delegate method.**
 
-'-(void)gestureLockView:(DDGestureLockView *)gestureLockView didMovedWithPasscode:(NSString *)passcode;'
+    -(void)gestureLockView:(DDGestureLockView *)gestureLockView didMovedWithPasscode:(NSString *)passcode;
